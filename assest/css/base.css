@@ -1,0 +1,14 @@
+/* Jeg laver nogle reset, fx. padding, margin og box-sizing */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Jeg vil nu style på min h1 med class jeg har lavede i htmlen */
+
+.color__Switch{
+    font-size: 55px;
+    text-align: center;
+    padding-top: 6em;
+    color: limegreen;
+}
